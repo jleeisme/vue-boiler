@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "vue-project",
+  "scripts": {
+    "dev": "vbuild --dev",
+    "build": "vbuild"
+  }
+}
